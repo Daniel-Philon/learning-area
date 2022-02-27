@@ -4,7 +4,8 @@
   "description": "A simple npm package to learn about using npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel server index.html"
   },
   "author": "Daniel Philon",
   "license": "ISC",
